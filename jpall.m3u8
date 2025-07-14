@@ -205,5 +205,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:2
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
 #other_region
-#EXTINF:-1 group-title="Niigata" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/1920px-Teny_logo.svg.png", teny (test)
+#EXTINF:-1 group-title="Other" tvg-id="teny" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Teny_logo.svg/1920px-Teny_logo.svg.png", teny (test)
 https://vthanh.utako.moe/tenytest/index.m3u8
+#EXTINF:-1 group-title="Other" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (low latency test)
+http://vthanh.utako.moe/nhkg_fast/index.m3u8
