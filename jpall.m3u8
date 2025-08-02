@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,http://epg.utako.moe/jcom.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://epg.freejptv.com/jp.xml,http://epg.utako.moe/jcom.xml" tvg-shift=0 m3uautoload=1
 
 #Tokyo
 #EXTINF:-1 group-title="Tokyo" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
@@ -245,5 +245,6 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 https://vthanh.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-id="JOAKDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 2 
 https://vthanh.utako.moe/nhkg_nonHEVC/index.m3u8
+
 
 
