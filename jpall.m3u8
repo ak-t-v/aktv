@@ -53,8 +53,6 @@ https://vn.utako.moe/ytv/index.m3u8
 https://vn.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 https://vn.utako.moe/suntv/index.m3u8
-#EXTINF:-1 group-title="Kansai" tvg-id="sbc_nagano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sbc_logo.svg/1920px-Sbc_logo.svg.png",SBC (test)
-https://vn.utako.moe/sbc_test/index.m3u8
 
 #Kansai us
 #EXTINF:-1 group-title="Kansai us" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (US server)
@@ -228,6 +226,7 @@ https://vn.utako.moe/homedrama/index.m3u8
 https://vn.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel (VN server)
 https://vn.utako.moe/tabi/index.m3u8
+
 
 
 
