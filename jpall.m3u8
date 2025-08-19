@@ -134,10 +134,6 @@ https://ca01.utako.moe/homedrama/index.m3u8
 https://ca01.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://ca01.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://ca01.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="Tokyo 171" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (171)
 http://freejptv.com/171.php?id=nhk_g_tokyo
@@ -174,6 +170,7 @@ http://freejptv.com/171.php?id=kansai
 http://freejptv.com/171.php?id=yomiuri_tv
 #EXTINF:-1 group-title="Kansai 171" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS (171)
 http://freejptv.com/171.php?id=kbs
+
 
 
 
