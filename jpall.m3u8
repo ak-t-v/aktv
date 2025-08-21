@@ -132,8 +132,10 @@ https://ca01.utako.moe/sport_live_plus/index.m3u8
 https://ca01.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
 https://ca01.utako.moe/gingach/index.m3u8
+
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
+
 
 
 
