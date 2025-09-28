@@ -255,7 +255,7 @@ https://epg.freejptv.com/ph.php?&isp=1&id=cs01
 https://epg.freejptv.com/ph.php?&isp=1&id=cs17
 #EXTINF:-1 group-title="CS 2" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs03
-#EXTINF:-1 group-title="CS 2" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
+#EXTINF:-1 group-title="CS 2" tvg-id="ntv_g_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs02
 #EXTINF:-1 group-title="CS 2" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs21
@@ -293,6 +293,7 @@ https://epg.freejptv.com/ph.php?&isp=1&id=cs16
 https://epg.freejptv.com/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS 2" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", TBS News (Primehome)
 https://epg.freejptv.com/ph.php?&isp=1&id=cs11
+
 
 
 
