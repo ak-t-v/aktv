@@ -140,32 +140,32 @@ https://ca01.utako.moe/tabi/index.m3u8
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd01
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd02
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",日本テレビ HD (Primehome)
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd03
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日 HD (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd04
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレビ東京 HD (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=hdgd07
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ HD (Primehome)
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd05
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (NSFW) HD (Primehome)
+https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD (Primehome)
+https://proxy.utako.moe/ph.php?&isp=1&id=hdgd07
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd08
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd01
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",日本テレビ (Primehome)
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd06
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",テレビ東京 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:-1 group-title="Tokyo 2" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",フジテレビ (Primehome)
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd05
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (NSFW) (Primehome)
+https://proxy.utako.moe/ph.php?&isp=1&id=gd06
+#EXTINF:-1 group-title="Tokyo 2" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Primehome)
+https://proxy.utako.moe/ph.php?&isp=1&id=gd07
 #EXTINF:-1 group-title="Tokyo 2" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd08
 
@@ -282,13 +282,14 @@ https://proxy.utako.moe/ph.php?&isp=1&id=cs08
 #EXTINF:-1 group-title="CS 2" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs24
 #EXTINF:-1 group-title="CS 2" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs08
+https://proxy.utako.moe/ph.php?&isp=1&id=cs09
 #EXTINF:-1 group-title="CS 2" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome) 
 https://proxy.utako.moe/ph.php?&isp=1&id=cs16
 #EXTINF:-1 group-title="CS 2" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)  
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
 #EXTINF:-1 group-title="CS 2" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs11
+
 
 
 
