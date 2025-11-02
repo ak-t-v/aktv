@@ -1,57 +1,57 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,http://epg.utako.moe/jcom.xml,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=id_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ HD (Server 02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ HD (Server 02)
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ HD (02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd08
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ HD
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G (main)
 https://us1001.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E (main)
 https://us1001.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 (main)
 https://us1001.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ (main)
 https://us1001.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 (main)
 https://us1001.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS (main)
 https://us1001.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 (main)
 https://us1001.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ (main)
 https://us1001.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2 (main)
 https://us1001.utako.moe/Tokyo_MX2/index.m3u8
 
 
@@ -323,5 +323,6 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
