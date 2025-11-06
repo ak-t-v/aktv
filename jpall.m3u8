@@ -7,7 +7,7 @@ https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02
 #EXTINF:-1 group-title="Tokyo PH" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08
-#EXTINF:-1 group-title="Tokyo PH" tvg-id="ntv,日テレ HD (Primehome)
+#EXTINF:-1 group-title="Tokyo PH" tvg-id="ntv",日テレ HD (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03
 #EXTINF:-1 group-title="Tokyo PH" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",テレビ朝日 HD (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06
@@ -357,6 +357,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
