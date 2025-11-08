@@ -1,6 +1,25 @@
 #EXTM3U url-tvg="https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,http://epg.utako.moe/jcom.xml,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=id_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_1,https://zhenix-px.netgenx.site/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G (main)
+https://us1001.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E (main)
+https://us1001.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 (main)
+https://us1001.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ (main)
+https://us1001.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 (main)
+https://us1001.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS (main)
+https://us1001.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 (main)
+https://us1001.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ (main)
+https://us1001.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2 (main)
+https://us1001.utako.moe/Tokyo_MX2/index.m3u8
+
 #EXTINF:-1 group-title="Tokyo PH" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
 https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
 #EXTINF:-1 group-title="Tokyo PH" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
@@ -68,25 +87,6 @@ https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd04
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ HD (01)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/hdgd05
-
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G (main)
-https://us1001.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E (main)
-https://us1001.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1",TOKYO MX1 (main)
-https://us1001.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv",日テレ (main)
-https://us1001.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi",テレビ朝日 (main)
-https://us1001.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs",TBS (main)
-https://us1001.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo",テレビ東京 (main)
-https://us1001.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv",フジテレビ (main)
-https://us1001.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2 (main)
-https://us1001.utako.moe/Tokyo_MX2/index.m3u8
 
 
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
@@ -357,6 +357,7 @@ https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.netgenx.site/iptv/zhenxen/master_playlist/cs11
+
 
 
 
